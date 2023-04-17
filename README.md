@@ -1,6 +1,6 @@
 # Olá tudo Bem?
 ## Me chamo João Victor
-### Sou desenvolver Front-End
+### Sou desenvolvedor Front-End
 ----
 
 <img src="https://github-readme-stats.vercel.app/api?username=victorfs32&show_icons=true&theme=tokyonight">

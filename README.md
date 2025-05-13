@@ -25,6 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" aligen="center" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aligen="center" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" aligen="center" height="60" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" aligen="center" height="60" width="60"/>
+<img src="https://iconduck.com/icons/27019/ant-design?shared" aligen="center" height="60" width="60"/>
 
 </div>
